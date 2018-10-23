@@ -29,7 +29,7 @@ pip3 install -r requirements.txt
 ![enter image description here](Pic/captcha_2.png)
 > - **运行破解**<br><br>
 ![enter image description here](Pic/run.png)<br>
-![enter image description here](Pic/img_normal.jpg)<br>
+![enter image description here](Pic/img_normal.jpg):point_right::point_right::point_right:
 ![enter image description here](Pic/img.jpg)
 ## :dolphin:**总结**
  **最后，如果你觉得这个项目不错或者对你有帮助，给个Star呗，也算是对我学习路上的一种鼓励！<br>
