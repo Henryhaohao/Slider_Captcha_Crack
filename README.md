@@ -16,7 +16,7 @@
 > 1.使用Pillow(PIL)库实现验证码图片的切割,黏贴,还原,缺口距离判断等图片操作<br>
 
 > 2.运用简单加速度知识模拟出滑块运动轨迹,生成data参数,并进行参数加密
-- **破解文件:Spiders目录下的slider.py**`
+- **破解文件:Spiders目录下的slider.py**
 ## :dolphin:运行环境
 **Version: Python3**
 ## :dolphin:安装依赖库
@@ -28,8 +28,8 @@ pip3 install -r requirements.txt
 ![enter image description here](Pic/captcha_1.png)
 ![enter image description here](Pic/captcha_2.png)
 > - **运行破解**<br><br>
-![enter image description here](Pic/run.png)
-![enter image description here](Pic/img_normal.jpg)
+![enter image description here](Pic/run.png)<br>
+![enter image description here](Pic/img_normal.jpg)<br>
 ![enter image description here](Pic/img.jpg)
 ## :dolphin:**总结**
  **最后，如果你觉得这个项目不错或者对你有帮助，给个Star呗，也算是对我学习路上的一种鼓励！<br>
