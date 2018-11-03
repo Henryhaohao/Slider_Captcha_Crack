@@ -1,4 +1,4 @@
-某教育网站滑动验证码破解 ![enter image description here](Pic/logo.png)
+某教育网站滑动验证码破解 - 识别率100% ![enter image description here](Pic/logo.png)
 ===========================
 ![](https://img.shields.io/badge/Python-3.6.3-green.svg) ![](https://img.shields.io/badge/requests-2.18.4-green.svg) ![](https://img.shields.io/badge/PyExecJS-1.5.1-green.svg) ![](https://img.shields.io/badge/Pillow-5.3.0-green.svg)
 ### 某教育网站 - http://gkcf.jxedu.gov.cn/
@@ -13,9 +13,9 @@
 ## :dolphin:介绍
 ### 该项目为[某教育网站](http://gkcf.jxedu.gov.cn/)滑动验证码的破解
 - **项目介绍:**
-> 1.使用Pillow(PIL)库实现验证码图片的切割,黏贴,还原,缺口距离判断等图片操作<br>
+> **1.使用Pillow(PIL)库实现验证码图片的切割,黏贴,还原,缺口距离判断等图片操作<br>**
 
-> 2.运用简单加速度知识模拟出滑块运动轨迹,生成data参数,并进行参数加密
+> **2.运用简单加速度知识模拟出滑块运动轨迹,生成data参数,并进行参数加密**
 - **破解文件:Spiders目录下的slider.py**
 ## :dolphin:运行环境
 **Version: Python3**
